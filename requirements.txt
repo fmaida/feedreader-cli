@@ -1,0 +1,4 @@
+click
+feedparser
+newspaper3k
+html2text
