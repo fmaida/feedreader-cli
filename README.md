@@ -5,6 +5,12 @@ This is a very simple project, based upon the excellent
 It allows a user to download an RSS or atom feed and show it 
 on the terminal.
 
+*Feedreader* adapts its output to the number of columns 
+and rows that your terminal is actually capable of 
+displaying. When it has used all the space available
+on the screen, it pauses and wait until the user 
+press the `ENTER` key to continue, or `q` to quit.
+
 ## Example of usage
 
 ```bash
