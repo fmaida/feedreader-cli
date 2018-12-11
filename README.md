@@ -24,7 +24,7 @@ Install *feedreader* with the following command:
 ## Example of usage
 
 ```bash
-$ ./feedreader.py wired.com -l 3
+$ feedreader wired.com -l 3
 
 
  1. Elon Musk Abuses Tesla Autopilot on *60 Minutes*
